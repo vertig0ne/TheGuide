@@ -1,0 +1,5 @@
+---
+title: Sonarr
+visible: true
+---
+

@@ -1,0 +1,5 @@
+---
+title: Lidarr
+visible: true
+---
+
