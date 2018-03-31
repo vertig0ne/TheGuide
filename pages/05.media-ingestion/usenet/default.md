@@ -18,7 +18,7 @@ restaurant:
 
 [TOC]
 
-Ingestion via usenet is a simple method of doing. You do however need access to Indexers and Usenet Servers. Proxies like NZBHydra can make alieviate a lot of pain when it comes to multiple Indexers, but is completely optional in the process.
+Ingestion with Usenet is a simple method of doing. You do however need access to Indexers and Usenet Servers. Proxies like NZBHydra can make alieviate a lot of pain when it comes to multiple Indexers, but is completely optional in the process.
 
 ## Risks
 
