@@ -22,7 +22,7 @@ Once we have the content ripped, encoded and packaged how we wanted it setup, we
 
 ## Triggering
 
-### Sonarr
+#### Sonarr
 
 #### Radarr
 
