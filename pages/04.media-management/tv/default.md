@@ -1,5 +1,5 @@
 ---
-title: TV
+title: 'TV Shows'
 visible: true
 twittercardoptions: summary
 articleenabled: false
