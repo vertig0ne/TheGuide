@@ -18,7 +18,7 @@ restaurant:
 
 [TOC]
 
-Ingestion via torrents is a simple method of using. You do however need access to Trackers which usually requires the use of a proxy like Jackett for both public and private.
+Ingestion via torrents is a simple method of doing. You do however need access to Trackers which usually requires the use of a proxy like Jackett for both public and private.
 
 ## Risks
 
