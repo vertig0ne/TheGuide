@@ -16,10 +16,7 @@ restaurant:
     priceRange: $
 ---
 
-## Table of Contents
-1. [Basic Knowledge](#basic-knowledge)
-2. [Basic Initialisation](#basic-initialisation)
-3. [Assumptions](#assumptions)
+[TOC]
 
 ### Basic Knowledge
 
