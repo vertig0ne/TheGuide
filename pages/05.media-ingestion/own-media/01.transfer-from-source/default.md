@@ -20,19 +20,19 @@ restaurant:
 
 The first step in ingesting your own media into is copying it from the source media to transfer into your library for use with a Media Server obviously. This topic will solely be about getting the media from the source and onto your computer. You will need the [Encoding](encoding) page
 
-# Video Media
+## Video Media
 
-## VHS Media
+### VHS Media
 
-## DVD Media
+### DVD Media
 
-## Blu-ray Media
+### Blu-ray Media
 
-## UHD Blu-ray Media
+### UHD Blu-ray Media
 
 
-# Audio Media
+## Audio Media
 
-## CD Media
+### CD Media
 
-## DVD-A Media
+### DVD-A Media
