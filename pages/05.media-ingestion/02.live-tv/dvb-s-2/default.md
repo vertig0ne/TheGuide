@@ -16,3 +16,16 @@ restaurant:
     priceRange: $
 ---
 
+[TOC]
+
+Receiving signals via satelite is one way to get Live TV working with your Media Servers. However out of the box you will only be able to support FTA channels. We will not be covering how to handle channel decryption.
+
+## Hardware
+
+## Software
+
+## Integration
+
+#### Plex
+
+#### Emby
