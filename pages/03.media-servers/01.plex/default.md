@@ -109,3 +109,7 @@ As you go through each step to setup your Movies, Music and TV Show libraries an
 {% endfor %}
 
 {{ unite_gallery(array, '{"gallery_theme":"tiles", "tiles_type":"justified"}') }}
+
+Once you have completed the initial configuration you will be presented with a screen that looks like this:
+
+![Plex Dashboard](serverDashboard.png?lightbox=1024&cropResize=300,300)
