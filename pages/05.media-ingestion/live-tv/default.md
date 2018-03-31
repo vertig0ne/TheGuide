@@ -16,3 +16,12 @@ restaurant:
     priceRange: $
 ---
 
+[TOC]
+
+Live TV Ingestion is not a new concept, there are several caveats and the list of things you can do is still not yet completely known. Both Plex and Emby support Live TV with DVR functonality. Depending on your TV source these may be viable options.
+
+## Risks
+
+## Benefits
+
+## Overall
