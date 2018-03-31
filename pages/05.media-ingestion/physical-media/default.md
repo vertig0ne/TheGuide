@@ -1,5 +1,5 @@
 ---
-title: 'Own Media'
+title: 'Physical Media'
 visible: true
 twittercardoptions: summary
 articleenabled: false
