@@ -38,15 +38,9 @@ Once we have the content on the machine ready to manipulate, we will describe th
 
 ### 720p
 
-#### H.264 Encode
-
 ### 560p
 
-#### H.264 Encode
-
 ### 480p
-
-#### H.264 Encode
 
 
 ## Audio Media
