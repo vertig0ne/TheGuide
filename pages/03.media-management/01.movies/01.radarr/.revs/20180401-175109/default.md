@@ -1,5 +1,5 @@
 ---
-title: Sonarr
+title: Radarr
 visible: true
 twittercardoptions: summary
 articleenabled: false
@@ -39,9 +39,11 @@ restaurant:
 
 #### Adding Download Clients
 
+#### Lists!
+
 #### Reverse Proxy
 
-##### Sonarr
+##### Radarr
 
 ##### Nginx
 
