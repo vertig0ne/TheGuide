@@ -39,7 +39,7 @@ restaurant:
 
 #### Adding Download Clients
 
-#### Reverse Proxy
+#### Reverse Proxy Configuration
 
 ##### Radarr
 
