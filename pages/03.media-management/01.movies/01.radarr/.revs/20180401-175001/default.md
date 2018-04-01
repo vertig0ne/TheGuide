@@ -39,8 +39,6 @@ restaurant:
 
 #### Adding Download Clients
 
-#### Lists!
-
 #### Reverse Proxy
 
 ##### Radarr
