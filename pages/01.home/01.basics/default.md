@@ -1,6 +1,8 @@
 ---
 title: Basics
 visible: true
+googletitle: 'Basics | The Guide'
+googledesc: 'Building your own Media Server can lead you down a dark path. Here''s some tips  and tricks to try and help you through to the other side'
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false
