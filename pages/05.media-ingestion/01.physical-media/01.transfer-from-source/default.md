@@ -28,6 +28,10 @@ The first step in ingesting your own media into is copying it from the source me
 
 ### Blu-ray Media
 
+```bash
+makemkvcon backup --decrypt --cache=16 --noscan -r --progress=-same disc:0 /path
+```
+
 ### UHD Blu-ray Media
 
 
