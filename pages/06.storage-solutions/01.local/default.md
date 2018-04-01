@@ -1,6 +1,5 @@
 ---
 title: Local
-routable: false
 visible: true
 twittercardoptions: summary
 articleenabled: false
