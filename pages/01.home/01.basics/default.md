@@ -22,7 +22,7 @@ restaurant:
 
 ##### Linux OS
 
-We generally recommend the Linux OS for general use due to it's minimalist nature. As most of the applications that are used do not provide a GUI for you to use, most provide a Web-Based frontend so you can still access it. Because of this it means that we do not need to have a traditional "Desktop". It also means we can generally leave a computer in the corner of the household with no screen, no keyboard and no mouse plugged in. For this guide we will generally assume an Debian based OS like Ubuntu. We only need to install Ubuntu-Server for this as we will be doing everything over ssh.
+We generally recommend a Linux based OS due to its minimalist nature as most of the applications that we recommend do not provide a traditional GUI (graphical user interface), most provide a Web-Based frontend, accessed through a web browser, for management purposes. This means that we do not need to have a traditional "Desktop". It also means we can leave the media server in the corner of the household with no screen, no keyboard and no mouse plugged in. For this guide we will assume you are using a Debian based Linux distro (OS) like Ubuntu. To begin, simply install Ubuntu-Server on your media server and make sure the openssh packages are installed and port 22 is open as from here on out we will be doing everything over ssh.
 
 
 ### Basic Initialisation
