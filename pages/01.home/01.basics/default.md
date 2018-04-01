@@ -27,7 +27,7 @@ We generally recommend a Linux based OS due to its minimalist nature as most of 
 
 ### Basic Initialisation
 
-Using the lines below will ensure that your setup right from the start has the folder structure that we will be using throughout the guide.
+Using the lines below will ensure that your media server has the correct folder structure that we will be using throughout the guide.
 
 ```bash
 sudo apt update
