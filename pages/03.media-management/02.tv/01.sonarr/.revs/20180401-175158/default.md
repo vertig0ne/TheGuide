@@ -1,5 +1,5 @@
 ---
-title: Lidarr
+title: Sonarr
 visible: true
 twittercardoptions: summary
 articleenabled: false
@@ -41,7 +41,7 @@ restaurant:
 
 #### Reverse Proxy
 
-##### Lidarr
+##### Sonarr
 
 ##### Nginx
 
