@@ -1,5 +1,0 @@
----
-title: Qbittorrent
-visible: true
----
-
