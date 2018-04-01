@@ -1,5 +1,0 @@
----
-title: Deluge
-visible: true
----
-
