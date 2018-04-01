@@ -25,7 +25,7 @@ Books have become a heavily requested feature to serve as media, whether it be t
 
 
 
-## <Book Media Server 1>
+## Calibre
 
 #### Pros
 
@@ -33,7 +33,7 @@ Books have become a heavily requested feature to serve as media, whether it be t
 
 #### Review
 
-## <Book Media Server 2>
+## Ubooquity
 
 #### Pros 
 
