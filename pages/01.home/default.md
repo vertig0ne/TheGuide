@@ -1,6 +1,8 @@
 ---
 title: 'The Guide'
 body_classes: 'title-center title-h1h2'
+googletitle: 'The Guide'
+googledesc: 'Want a Media Server? Of course you do! This guide shows you how to set one up from beginning to end.'
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false
