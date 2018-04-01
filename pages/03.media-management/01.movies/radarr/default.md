@@ -1,5 +1,0 @@
----
-title: Radarr
-visible: true
----
-
