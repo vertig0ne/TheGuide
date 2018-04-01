@@ -31,4 +31,4 @@ So we come to "The Guide", It focuses on each element of designing or managing a
 
 ## Where to Start?
 
-To start off with we would recommend the "Basics" page as this will explain some of the assumptions we make during the process it also includes some basic "things you should know" from there will depend on you and which path you will take. If you are just starting out, we would recommend looking at Local Storage Solutions to get an operating system installed, then installing your server/ingestion/management software. Then finally making it all neat and tidy with the Frontend section.
+To start off, we would recommend the 'Basics' page as this will explain some of the assumptions we make during the process; it also includes some basic things you should know. Going off from there would depend on which path you want to take. If you are just starting out with a media server we recommend looking at [Local Storage Solutions](/storage-solutions/) to decide on an oprating system, then installing and configuring your server/ingestion/management software. And finally making it all neat and tidy with the Frontend section.
