@@ -1,5 +1,0 @@
----
-title: CouchPotato
-visible: true
----
-
