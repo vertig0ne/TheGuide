@@ -1,5 +1,0 @@
----
-title: Headphones
-visible: true
----
-
