@@ -16,3 +16,35 @@ restaurant:
     priceRange: $
 ---
 
+[TOC]
+
+## Installation
+
+#### Local Installation
+
+
+#### Docker Installation
+
+
+## Configuration
+
+#### Initial Configuration
+
+#### Adding WebHooks
+##### Plex
+
+##### Discord
+
+#### Adding Indexers
+
+#### Adding Download Clients
+
+#### Reverse Proxy Configuration
+
+##### Radarr
+
+##### Nginx
+
+##### Caddy
+
+##### Apache
