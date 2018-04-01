@@ -1,5 +1,0 @@
----
-title: Rutorrent
-visible: true
----
-
