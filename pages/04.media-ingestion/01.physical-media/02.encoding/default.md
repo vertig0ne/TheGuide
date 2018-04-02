@@ -34,6 +34,10 @@ Once we have the content on the machine ready to manipulate, we will describe th
 
 #### Remux
 
+```bash
+makemkvcon mkv file:~/movie 0 .
+```
+
 #### H.264 Encode
 
 ### 720p
