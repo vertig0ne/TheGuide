@@ -38,6 +38,12 @@ Once we have the content on the machine ready to manipulate, we will describe th
 makemkvcon mkv file:~/movie 0 .
 ```
 
+or
+
+```bash
+mkvmerge -o output.mkv input.m2ts
+```
+
 #### H.264 Encode
 
 ### 720p
