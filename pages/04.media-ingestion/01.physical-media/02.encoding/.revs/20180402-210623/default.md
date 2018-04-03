@@ -28,6 +28,27 @@ Once we have the content on the machine ready to manipulate, we will describe th
 
 #### H.265 Encode
 
+#### H.264 Encode
+```bash
+
+# Extract files from decrypted bluray backup
+ffmpeg -i ~/movie/BDMV/STREAM/00002.m2ts -vcodec copy -an film.m4v
+ffmpeg -i ~/movie/BDMV/STREAM/00002.m2ts -acodec copy -vn film.dts
+
+# Encode Elements
+x264 --crf 19 --preset veryslow -o film.mp4 film.m4v
+
+```
+
+# Extract files from decrypted bluray backup
+ffmpeg -i ~/movie/BDMV/STREAM/00002.m2ts -vcodec copy -an film.m4v
+ffmpeg -i ~/movie/BDMV/STREAM/00002.m2ts -acodec copy -vn film.dts
+
+# Encode Elements
+x264 --crf 19 --preset veryslow -o film.mp4 film.m4v
+
+```
+
 ### 1080p
 
 #### Remux
@@ -44,6 +65,15 @@ mkvmerge -o output.mkv input.m2ts
 
 #### H.264 Encode
 ```bash
+
+# Extract files from decrypted bluray backup
+ffmpeg -i ~/movie/BDMV/STREAM/00002.m2ts -vcodec copy -an film.m4v
+ffmpeg -i ~/movie/BDMV/STREAM/00002.m2ts -acodec copy -vn film.dts
+
+# Encode Elements
+x264 --crf 19 --preset veryslow -o film.mp4 film.m4v
+
+```
 
 # Extract files from decrypted bluray backup
 ffmpeg -i ~/movie/BDMV/STREAM/00002.m2ts -vcodec copy -an film.m4v
