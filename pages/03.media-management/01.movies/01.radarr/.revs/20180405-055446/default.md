@@ -65,7 +65,6 @@ docker create \
     -v /etc/localtime:/etc/localtime:ro \
     -p 7878:7878 \
 	linuxserver/radarr
-docker start radarr
 ```
 
 ## Configuration
