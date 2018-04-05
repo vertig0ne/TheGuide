@@ -71,8 +71,6 @@ docker create \
 
 #### Initial Configuration
 
-Now that you have Radarr installed and started, you should be able to get to it at `http://127.0.0.1:7878`
-
 #### Adding WebHooks
 ##### Plex
 
