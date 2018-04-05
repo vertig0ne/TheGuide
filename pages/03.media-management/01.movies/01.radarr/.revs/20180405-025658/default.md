@@ -49,16 +49,6 @@ restaurant:
 
 #### Docker Installation
 
-```bash
-docker create \
-  --name=radarr \
-    -v ~/.config/radarr:/config \
-    -v ~/Downloads:/downloads \
-    -v /mnt/media/Movies:/movies \
-    -v /etc/localtime:/etc/localtime:ro \
-    -p 7878:7878 \
-  linuxserver/radarr
-```
 
 ## Configuration
 
