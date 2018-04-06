@@ -124,9 +124,9 @@ location /radarr/ {
 ##### Caddy
 
 ```
-proxy /radarr 127.0.0.1:7878 {
-	transparent
-}
+  proxy /radarr 127.0.0.1:8989 {
+    transparent
+  }
 ```
 
 ##### Apache
