@@ -1,6 +1,6 @@
 ---
 title: Radarr
-media_order: 'radarrAddWebbookPlex.png,radarrReverseProxy.png,radarrAddIndexer.png'
+media_order: 'radarrAddWebbookPlex.png,radarrReverseProxy.png'
 visible: true
 googletitle: Radarr
 googledesc: 'In this guide about Radarr for movie management. We teach you how to install and configure it for use in your environment.'
@@ -110,7 +110,7 @@ Hit the `Test` button to verify it all works, then click `Save`
 
 Adding an Indexer can vary depending on type and backend. Things like [Jackett](/jackett) will have their own guide here. However as Radarr does support a lot of Indexers out of the box, we will provide a generic guide here. Turn your browser to `http://127.0.0.1:7878/settings/indexers` and hit the `+` button.
 
-![Add Indexer](radarrAddIndexer.png?lightbox=2048&cropResize=300,300)
+(IMAGE HERE)
 
 Clicking on any of the options will bring up a box like this:
 
