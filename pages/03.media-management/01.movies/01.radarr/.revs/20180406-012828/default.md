@@ -1,5 +1,5 @@
 ---
-title: ' toRadarr'
+title: Radarr
 visible: true
 twittercardoptions: summary
 articleenabled: false
@@ -77,7 +77,7 @@ Now that you have Radarr installed and started, you should be able to get to it 
 #### Adding WebHooks
 ##### Plex
 
-Head on over to `http://127.0.0.1:7878/settings/mediamanagement#notifications`
+`http://127.0.0.1:7878/settings/mediamanagement#notifications`
 
 Click the `+` button, select `Plex Media Server` and fill in with these details:
 
