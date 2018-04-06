@@ -26,7 +26,7 @@ restaurant:
 
 ##### Dependancies
 
-! If you have already installed these dependancies from other areas of the guide. You can safely ignore this particular section and move onto the next.
+If you have already installed these dependancies from other areas of the guide. You can safely ignore this particular section and move onto the next.
 
 ```bash
 // Install mono
