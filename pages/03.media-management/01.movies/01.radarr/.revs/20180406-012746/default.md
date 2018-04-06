@@ -82,8 +82,6 @@ Now that you have Radarr installed and started, you should be able to get to it 
 Click the `+` button, select `Plex Media Server` and fill in with these details:
 
 (IMAGE HERE)
-
-Hit the `Test` button to verify it all works, then click `Save`
     
 ##### Discord
 
