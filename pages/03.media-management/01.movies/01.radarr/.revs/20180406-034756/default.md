@@ -87,12 +87,6 @@ Hit the `Test` button to verify it all works, then click `Save`
     
 ##### Discord
 
-Open your Discord client and Right click your server, from there select 'Server Settings' then 'Webhooks'
-(IMAGE HERE)
-
-Click on `Create Webhook` and fill int he details, these details can be whatever you feel like, this will also be the place to put a logo for the hook.
-(IMAGE HERE)
-
 Head on over to `http://127.0.0.1:7878/settings/mediamanagement#notifications`
 
 Click the `+` button, select `Slackr` and fill in with these details:
