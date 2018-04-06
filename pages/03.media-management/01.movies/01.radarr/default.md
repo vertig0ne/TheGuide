@@ -83,7 +83,7 @@ Head on over to `http://127.0.0.1:7878/settings/connect`
 
 Click the `+` button, select `Plex Media Server` and fill in with these details:
 
-![Add Plex Webhook](radarrAddWebhookPlex.png?lightbox=2048&cropResize=300,300)
+![Add Plex Webhook](radarrAddWebbookPlex.png?lightbox=2048&cropResize=300,300)
 
 Hit the `Test` button to verify it all works, then click `Save`
     
