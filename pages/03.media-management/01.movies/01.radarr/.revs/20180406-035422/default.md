@@ -95,7 +95,7 @@ Click on `Create Webhook` and fill int he details, these details can be whatever
 
 Head on over to `http://127.0.0.1:7878/settings/mediamanagement#notifications`
 
-Click the `+` button, select `Slack` and fill in with the details you set earlier for us it will look something like this:
+Click the `+` button, select `Slackr` and fill in with these details:
 
 (IMAGE HERE)
 
