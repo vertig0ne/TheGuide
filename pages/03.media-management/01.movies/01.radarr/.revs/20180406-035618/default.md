@@ -113,12 +113,6 @@ Hit the `Test` button to verify it all works, then click `Save`
 
 ##### Radarr
 
-To configure the Radarr side, we may need to change what is known as the 'URL Base' or 'Base URL'. We can achieve this by opening up `http://127.0.0.1:7878/settings/general#general` and filling in the box as follows:
-
-(IMAGE HERE)
-
-! Something to note, while setting this up, a lot of people will advise with prefixing or trailing slashes, we have found that this isn't necesary for Radarr itself. Also while you can name your directory name in Radarr, it will need to match on the [Reverse Proxy](#reverse-proxy).
-
 ##### Nginx
 
 ```nginx
