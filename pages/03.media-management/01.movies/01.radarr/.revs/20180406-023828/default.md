@@ -87,16 +87,6 @@ Hit the `Test` button to verify it all works, then click `Save`
     
 ##### Discord
 
-Head on over to `http://127.0.0.1:7878/settings/mediamanagement#notifications`
-
-Click the `+` button, select `Slackr` and fill in with these details:
-
-(IMAGE HERE)
-
-! The URL you get from discord will need to be slightly modified, you will need to append '/slack' to the end of the url.
-
-Hit the `Test` button to verify it all works, then click `Save`
-
 #### Adding Indexers
 
 #### Adding Download Clients
