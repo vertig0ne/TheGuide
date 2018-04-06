@@ -79,7 +79,7 @@ Now that you have Radarr installed and started, you should be able to get to it 
 #### Adding WebHooks
 ##### Plex
 
-Head on over to `http://127.0.0.1:7878/settings/mediamanagement#notifications`
+Head on over to `http://127.0.0.1:7878/settings/connect`
 
 Click the `+` button, select `Plex Media Server` and fill in with these details:
 
@@ -95,7 +95,7 @@ Open your Discord client and Right click your server, from there select 'Server 
 Click on `Create Webhook` and fill int he details, these details can be whatever you feel like, this will also be the place to put a logo for the hook.
 (IMAGE HERE)
 
-Head on over to `http://127.0.0.1:7878/settings/mediamanagement#notifications`
+Head on over to `http://127.0.0.1:7878/settings/connect`
 
 Click the `+` button, select `Slack` and fill in with the details you set earlier for us it will look something like this:
 
@@ -125,7 +125,7 @@ Fill in the details for the Indexer you would like to use and push the `Test` bu
 
 ##### Radarr
 
-To configure the Radarr side, we may need to change what is known as the 'URL Base' or 'Base URL'. We can achieve this by opening up `http://127.0.0.1:7878/settings/general#general` and filling in the box as follows:
+To configure the Radarr side, we may need to change what is known as the 'URL Base' or 'Base URL'. We can achieve this by opening up `http://127.0.0.1:7878/settings/general` and filling in the box as follows:
 
 (IMAGE HERE)
 
