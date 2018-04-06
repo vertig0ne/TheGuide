@@ -40,11 +40,11 @@ sudo apt install mono-devel
 ```bash
 // Install Radarr
 wget https://github.com/Radarr/Radarr/releases/download/v0.2.0.995/Radarr.develop.0.2.0.995.linux.tar.gz
-sudo tar -zxf Radarr.develop.0.2.0.995.linux.tar.gz -C /opt/
+tar -zxf Radarr.develop.0.2.0.995.linux.tar.gz -C /opt/
     
 // Add Radarr user
-sudo adduser --system --no-create-home --group radarr
-sudo chown -R radarr:radarr /opt/Radarr
+adduser --system --no-create-home --group radarr
+chown -R radarr:radarr /opt/Radarr
     
 // Create Radarr Service
 wget https://gist.githubusercontent.com/vertig0ne/644846b495461b4462f5f610277e6d58/raw/ff5f4a64d187c3e0b004d49cd7acd3eab3e8c21c/radarr.service
