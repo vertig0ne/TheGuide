@@ -109,8 +109,11 @@ Hit the `Test` button to verify it all works, then click `Save`
 
 ##### Nginx
 
+! **PLEASE NOTE** If you have not completed Organizr setup, the `auth_request` will not pass and will either constantly fail authentication or make the page return a HTTP 500 Error
+
 ```nginx
 location /radarr/ {
+	auth_request /auth-admin;
 	proxy_pass http://127.0.0.1:7878/radarr/;
 	proxy_set_header X-Real-IP $remote_addr; 
 	proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
@@ -118,18 +121,19 @@ location /radarr/ {
 	proxy_http_version 1.1;
 	proxy_no_cache $cookie_session;
 	proxy_set_header Accept-Encoding "";
+
+	location /radarr/api {
+		auth_request off;
+		proxy_pass http://127.0.0.1:7878/radarr/api;
+	}
 }
 ```
 
 ##### Caddy
 
-```
-  proxy /radarr 127.0.0.1:8989 {
-    transparent
-  }
-```
-
 ##### Apache
+
+!! **THERE IS NO AUTHENTICATION ON THIS BLOCK PLEASE ENSURE YOU HAVE A LOGIN OPTION ENABLED BEFORE PLACING IN THE PUBLIC SECTOR**
 
 ```apache
 <Location /radarr>
