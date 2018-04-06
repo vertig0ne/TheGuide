@@ -1,5 +1,5 @@
 ---
-title: Radarr
+title: ecRadarr
 visible: true
 googletitle: Radarr
 googledesc: 'In this guide about Radarr for movie management. We teach you how to install and configure it for use in your environment.'
