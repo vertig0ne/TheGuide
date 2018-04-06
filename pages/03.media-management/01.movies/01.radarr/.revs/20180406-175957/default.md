@@ -89,7 +89,7 @@ Hit the `Test` button to verify it all works, then click `Save`
     
 ##### Discord
 
-Open your Discord client and Right click your server, from there select `Server Settings` then `Webhooks`
+Open your Discord client and Right click your server, from there select 'Server Settings' then 'Webhooks'
 (IMAGE HERE)
 
 Click on `Create Webhook` and fill int he details, these details can be whatever you feel like, this will also be the place to put a logo for the hook.
