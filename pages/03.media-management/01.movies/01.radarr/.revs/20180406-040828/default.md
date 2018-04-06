@@ -1,7 +1,7 @@
 ---
 title: Radarr
 visible: true
-googletitle: Radarr
+googletitle: 'Radarr | The Guide'
 googledesc: 'In this guide about Radarr for movie management. We teach you how to install and configure it for use in your environment.'
 twittercardoptions: summary
 articleenabled: false
