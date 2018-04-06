@@ -132,12 +132,3 @@ location /radarr/ {
 ##### Caddy
 
 ##### Apache
-
-!! **THERE IS NO AUTHENTICATION ON THIS BLOCK PLEASE ENSURE YOU HAVE A LOGIN OPTION ENABLED BEFORE PLACING IN THE PUBLIC SECTOR**
-
-```apache
-  <Location /radarr>
-    ProxyPass http://127.0.0.1:7878
-    ProxyPassReverse http://127.0.0.1:7878
-  </Location>
-  ```
