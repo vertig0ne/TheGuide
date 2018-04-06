@@ -77,6 +77,12 @@ Now that you have Radarr installed and started, you should be able to get to it 
 #### Adding WebHooks
 ##### Plex
 
+`http://127.0.0.1:7878/settings/mediamanagement#notifications`
+
+Click the `+` button, select `Slack` and fill in with these details:
+
+(IMAGE HERE)
+    
 ##### Discord
 
 #### Adding Indexers
