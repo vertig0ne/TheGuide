@@ -107,16 +107,6 @@ Hit the `Test` button to verify it all works, then click `Save`
 
 #### Adding Indexers
 
-Adding an Indexer can vary depending on type and backend. Things like [Jackett](/jackett) will have their own guide here. However as Radarr does support a lot of Indexers out of the box, we will provide a generic guide here. Turn your browser to `http://127.0.0.1:7878/settings/indexers` and hit the `+` button.
-
-(IMAGE HERE)
-
-Clicking on any of the options will bring up a box like this:
-
-(IMAGE HERE)
-
-Fill in the details for the Indexer you would like to use and push the `Test` button. If this validates you can go ahead and press `Save`. If it fails, double check the details entered and/or try manually logging into the site in an Incognito Window to verify the details are in fact correct.
-
 #### Adding Download Clients
 
 #### Lists!
