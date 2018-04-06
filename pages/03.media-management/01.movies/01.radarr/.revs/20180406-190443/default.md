@@ -1,6 +1,6 @@
 ---
 title: Radarr
-media_order: 'radarrAddWebbookPlex.png,radarrReverseProxy.png,radarrAddIndexer.png,discordGetWebhooks.png'
+media_order: 'radarrAddWebbookPlex.png,radarrReverseProxy.png,radarrAddIndexer.png'
 visible: true
 googletitle: Radarr
 googledesc: 'In this guide about Radarr for movie management. We teach you how to install and configure it for use in your environment.'
@@ -91,7 +91,7 @@ Hit the `Test` button to verify it all works, then click `Save`
 ##### Discord
 
 Open your Discord client and Right click your server, from there select `Server Settings` then `Webhooks`
-![Get Webhooks](discordGetWebhooks.png?lightbox=2048&cropResize=300,300)
+(IMAGE HERE)
 
 Click on `Create Webhook` and fill int he details, these details can be whatever you feel like, this will also be the place to put a logo for the hook.
 (IMAGE HERE)
