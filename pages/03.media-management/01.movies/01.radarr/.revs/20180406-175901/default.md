@@ -101,7 +101,7 @@ Click the `+` button, select `Slack` and fill in with the details you set earlie
 
 (IMAGE HERE)
 
-! **PLEASE NOTE** The URL you get from Discord will need to be slightly modified, you will need to append `/slack` to the end of the url.
+! **PLEASE NOTE** The URL you get from discord will need to be slightly modified, you will need to append `/slack` to the end of the url.
 
 Hit the `Test` button to verify it all works, then click `Save`
 
