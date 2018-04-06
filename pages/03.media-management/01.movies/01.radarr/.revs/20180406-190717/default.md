@@ -1,6 +1,6 @@
 ---
 title: Radarr
-media_order: 'radarrAddWebbookPlex.png,radarrReverseProxy.png,radarrAddIndexer.png,discordGetWebhooks.png,discordAddWebhook.png,radarrAddWebhookDiscord.png'
+media_order: 'radarrAddWebbookPlex.png,radarrReverseProxy.png,radarrAddIndexer.png,discordGetWebhooks.png,discordAddWebhook.png'
 visible: true
 googletitle: Radarr
 googledesc: 'In this guide about Radarr for movie management. We teach you how to install and configure it for use in your environment.'
@@ -100,7 +100,7 @@ Head on over to `http://127.0.0.1:7878/settings/connect`
 
 Click the `+` button, select `Slack` and fill in with the details you set earlier for us it will look something like this:
 
-![Add Webhook](radarrAddWebhookDiscord.png?lightbox=2048&cropResize=300,300)
+(IMAGE HERE)
 
 ! **PLEASE NOTE** The URL you get from Discord will need to be slightly modified, you will need to append `/slack` to the end of the url.
 
