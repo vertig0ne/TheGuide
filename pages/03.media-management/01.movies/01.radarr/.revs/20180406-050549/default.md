@@ -119,8 +119,6 @@ Fill in the details for the Indexer you would like to use and push the `Test` bu
 
 #### Adding Download Clients
 
-Adding download clients is relatively simple, however it is best explained in the client section labeled `Management Integration` located in each of the [Torrent](/media-ingestion/torrents) and [Usenet](/media-ingestion/usenet) sections.
-
 #### Lists!
 
 #### Reverse Proxy
