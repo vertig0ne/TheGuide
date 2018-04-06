@@ -1,6 +1,5 @@
 ---
 title: Radarr
-media_order: 'radarrAddWebbookPlex.png,radarrReverseProxy.png'
 visible: true
 googletitle: Radarr
 googledesc: 'In this guide about Radarr for movie management. We teach you how to install and configure it for use in your environment.'
@@ -130,7 +129,7 @@ Adding download clients is relatively simple, however it is best explained in th
 
 To configure the Radarr side, we may need to change what is known as the 'URL Base' or 'Base URL'. We can achieve this by opening up `http://127.0.0.1:7878/settings/general` and filling in the box as follows:
 
-![Configure Base URL](radarrReverseProxy.png?lightbox=2048&cropResize=700,200)
+(IMAGE HERE)
 
 ! Something to note, while setting this up, a lot of people will advise with prefixing or trailing slashes, we have found that this isn't necesary for Radarr itself. Also while you can name your directory name in Radarr, it will need to match on the [Reverse Proxy](#reverse-proxy).
 
