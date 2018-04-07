@@ -1,6 +1,6 @@
 ---
 title: Radarr
-media_order: 'radarrAddWebbookPlex.png,radarrReverseProxy.png,radarrAddIndexer.png,discordGetWebhooks.png,discordAddWebhook.png,radarrAddWebhookDiscord.png,radarrListsAdd.png'
+media_order: 'radarrAddWebbookPlex.png,radarrReverseProxy.png,radarrAddIndexer.png,discordGetWebhooks.png,discordAddWebhook.png,radarrAddWebhookDiscord.png'
 visible: true
 googletitle: Radarr
 googledesc: 'In this guide about Radarr for movie management. We teach you how to install and configure it for use in your environment.'
@@ -128,7 +128,7 @@ Oh yeah! Lists, where everything adds by itself. Simply find an IMDb List somewh
 
 Start off by going to `http://127.0.0.1:7878/settings/netimport` then hitting the `+` button
 
-![Add List](radarrListsAdd.png?lightbox=2048&cropResize=300,300)
+(IMAGE HERE)
 
 For this guide we are going to use this list `http://www.imdb.com/list/ls058813655/` which was found on Google using the search string `imdb movies 2018 hollywood` From the URL we are going to need this bit between the last set of /'s. For us this will be `ls058813655`. So click on `Radarr Lists > Presets > IMDb List`
 
