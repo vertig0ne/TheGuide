@@ -1,6 +1,6 @@
 ---
 title: Radarr
-media_order: 'radarrAddWebbookPlex.png,radarrReverseProxy.png,radarrAddIndexer.png,discordGetWebhooks.png,discordAddWebhook.png,radarrAddWebhookDiscord.png,radarrListsAdd.png,radarrListsAddImdb.png,radarrTrackerAddPtp.png'
+media_order: 'radarrAddWebbookPlex.png,radarrReverseProxy.png,radarrAddIndexer.png,discordGetWebhooks.png,discordAddWebhook.png,radarrAddWebhookDiscord.png,radarrListsAdd.png,radarrListsAddImdb.png'
 visible: true
 googletitle: Radarr
 googledesc: 'In this guide about Radarr for movie management. We teach you how to install and configure it for use in your environment.'
@@ -114,7 +114,7 @@ Adding an Indexer can vary depending on type and backend. Things like [Jackett](
 
 Clicking on any of the options will bring up a box like this:
 
-![Add Indexer PTP](radarrTrackerAddPtp.png?lightbox=2048&cropResize=300,300)
+(IMAGE HERE)
 
 Fill in the details for the Indexer you would like to use and push the `Test` button. If this validates you can go ahead and press `Save`. If it fails, double check the details entered and/or try manually logging into the site in an Incognito Window to verify the details are in fact correct.
 
