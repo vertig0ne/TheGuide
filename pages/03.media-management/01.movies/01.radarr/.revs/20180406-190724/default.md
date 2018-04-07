@@ -124,24 +124,6 @@ Adding download clients is relatively simple, however it is best explained in th
 
 #### Lists!
 
-Oh yeah! Lists, where everything adds by itself. Simply find an IMDb List somewhere and Radarr will monitor it for movies you don't have, then it'll add them.
-
-Start off by going to `http://127.0.0.1:7878/settings/netimport` then hitting the `+` button
-
-(IMAGE HERE)
-
-For this guide we are going to use this list `http://www.imdb.com/list/ls058813655/` which was found on Google using the search string `imdb movies 2018 hollywood` From the URL we are going to need this bit between the last set of /'s. For us this will be `ls058813655`. So click on `Radarr Lists > Presets > IMDb List`
-
-You will get a window that looks like this:
-
-(IMAGE HERE)
-
-Fill it out with the List ID, Minimum availability and Profile. For this guide we would recommend ticking `Add Films Monitored` and `Automatic Movie Sync`. The `Path to list` field should be set to `/imdb/list?listId=ls058813655` like the image above.
-
-Click `Test` and verify everything is all good. Then click on `Save`
-
-
-
 #### Reverse Proxy
 
 ##### Radarr
