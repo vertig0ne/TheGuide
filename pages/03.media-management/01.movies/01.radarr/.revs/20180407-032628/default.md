@@ -1,6 +1,6 @@
 ---
 title: Radarr
-media_order: 'radarrAddWebbookPlex.png,radarrReverseProxy.png,radarrAddIndexer.png,discordGetWebhooks.png,discordAddWebhook.png,radarrAddWebhookDiscord.png,radarrListsAdd.png,radarrListsAddImdb.png'
+media_order: 'radarrAddWebbookPlex.png,radarrReverseProxy.png,radarrAddIndexer.png,discordGetWebhooks.png,discordAddWebhook.png,radarrAddWebhookDiscord.png,radarrListsAdd.png'
 visible: true
 googletitle: Radarr
 googledesc: 'In this guide about Radarr for movie management. We teach you how to install and configure it for use in your environment.'
@@ -134,7 +134,7 @@ For this guide we are going to use this list `http://www.imdb.com/list/ls0588136
 
 You will get a window that looks like this:
 
-![Add IMDb List](radarrListsAddImdb.png?lightbox=2048&cropResize=300,300)
+(IMAGE HERE)
 
 Fill it out with the List ID, Minimum availability and Profile. For this guide we would recommend ticking `Add Films Monitored` and `Automatic Movie Sync`. The `Path to list` field should be set to `/imdb/list?listId=ls058813655` like the image above.
 
