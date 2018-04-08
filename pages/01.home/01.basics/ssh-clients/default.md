@@ -22,3 +22,28 @@ restaurant:
 [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_SSH_clients)
 
 SSH is the prefferd way to gain Secure Shell access to a machine, essentialy opening a terminal on the client to peform actions on the host.
+
+### Other nifty things about SSH
+Tunnels
+Sftp
+
+## What client to use
+Depending on the OS on the machine you want to manage your server with, there is alot of different clients, ranging from just a terminal, to a more feature rich client. Some OSes even come with a preinstalled client.
+
+This guide should help you choose a client.
+
+## Linux
+
+## Windows
+At the time of writing, Windows doesnt come with native SSH support, therefore we need to download a third party client.
+
+### MobaXTerm
+MobaXTerm is a versitile client, supporting most of your admin needs.
+
+#### Features
+* Portable
+* Lightweight
+* Macros
+* Other remote management protocols (COM, RDP, VNC)
+
+## MacOS
