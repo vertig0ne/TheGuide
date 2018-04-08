@@ -1,7 +1,6 @@
 ---
 title: 'SSH Clients'
 published: true
-googledesc: 'What is a SSH client? An SSH client is a software program which uses the secure shell protocol to connect to a remote computer.'
 twitterenable: true
 twittercardoptions: summary
 articleenabled: false
@@ -16,7 +15,6 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
-facebookdesc: 'What is a SSH client? An SSH client is a software program which uses the secure shell protocol to connect to a remote computer.Wikipedia SSH is the preferred way to gain Secure Shell access to a machine, essentially opening a terminal on the client to perform actions on the host.'
 ---
 
 [TOC]
