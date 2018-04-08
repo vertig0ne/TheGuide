@@ -46,6 +46,6 @@ At the time of writing, Windows doesnt come with native SSH support, therefore w
 * Macros
 * Other remote management protocols (COM, RDP, VNC)
 
-![MobaGUI](moba1.PNG)
+
 
 ## MacOS
