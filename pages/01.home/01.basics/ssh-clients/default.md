@@ -59,7 +59,7 @@ At the time of writing, Windows doesn’t come with native SSH support, therefor
 #### Features
 * Lightweight
 * Open Source
-* 
+
 ![](putty.png)
 
 
