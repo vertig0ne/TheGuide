@@ -1,6 +1,5 @@
 ---
 title: 'SSH Clients'
-media_order: moba1.PNG
 published: true
 googledesc: 'What is a SSH client? An SSH client is a software program which uses the secure shell protocol to connect to a remote computer.'
 twitterenable: true
@@ -52,15 +51,5 @@ At the time of writing, Windows doesn’t come with native SSH support, therefor
 * Other remote management protocols (COM, RDP, VNC)
 
 ![MobaGUI](moba1.PNG)
-
-### PuTTY
-[PuTTY](https://www.putty.org/) is a free implementation of SSH and Telnet for Windows and Unix platforms, along with an xterm terminal emulator.
-
-#### Features
-* Lightweight
-* Open Source
-
-
-
 
 ## MacOS
