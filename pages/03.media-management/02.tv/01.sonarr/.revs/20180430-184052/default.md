@@ -73,19 +73,8 @@ docker start sonarr
 
 #### Initial Configuration
 
-Now that you have Sonarr installed and started, you should be able to get to it at `http://127.0.0.1:8686`
-
 #### Adding WebHooks
 ##### Plex
-
-Head on over to `http://127.0.0.1:8686/settings/connect`
-
-Click the `+` button, select `Plex Media Server` and fill in with these details:
-
-![Add Plex Webhook](radarrAddWebbookPlex.png?lightbox=2048&cropResize=300,300)
-
-Hit the `Test` button to verify it all works, then click `Save`
-
 
 ##### Discord
 
