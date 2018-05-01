@@ -1,5 +1,5 @@
 ---
-title: 'Media Management'
+title: 'rMedia Management'
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false
