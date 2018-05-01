@@ -1,5 +1,5 @@
 ---
-title: 'rMedia Management'
+title: 'Media Management'
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false
@@ -25,7 +25,7 @@ Most people that get into managing their own server for serving media don't real
 
 | Name | Thing 1 | Thing 2 | Thing 3 | Thing 4 | Thing 5 |
 | ------- | --------- | --------- | --------- | --------- | --------- |
-| Sonarr | ? | ? | ? | ? | ? |
+| Radarr | ? | ? | ? | ? | ? |
 | SickRage | ? | ? | ? | ? | ? |
 
 ### Movies
@@ -33,26 +33,26 @@ Most people that get into managing their own server for serving media don't real
 | Name | Thing 1 | Thing 2 | Thing 3 | Thing 4 | Thing 5 |
 | ------- | --------- | --------- | --------- | --------- | --------- |
 | Radarr | ? | ? | ? | ? | ? |
-| CouchPotato | ? | ? | ? | ? | ? |
+| SickRage | ? | ? | ? | ? | ? |
 
 ### Music
 
 | Name | Thing 1 | Thing 2 | Thing 3 | Thing 4 | Thing 5 |
 | ------- | --------- | --------- | --------- | --------- | --------- |
-| Lidarr | ? | ? | ? | ? | ? |
-| Headphones | ? | ? | ? | ? | ? |
+| Radarr | ? | ? | ? | ? | ? |
+| SickRage | ? | ? | ? | ? | ? |
 
 ### Books
 
 | Name | Thing 1 | Thing 2 | Thing 3 | Thing 4 | Thing 5 |
 | ------- | --------- | --------- | --------- | --------- | --------- |
-| ? | ? | ? | ? | ? | ? |
-| ? | ? | ? | ? | ? | ? |
+| Radarr | ? | ? | ? | ? | ? |
+| SickRage | ? | ? | ? | ? | ? |
 
 ### Comics
 
 | Name | Thing 1 | Thing 2 | Thing 3 | Thing 4 | Thing 5 |
 | ------- | --------- | --------- | --------- | --------- | --------- |
-| ? | ? | ? | ? | ? | ? |
-| ? | ? | ? | ? | ? | ? |
+| Radarr | ? | ? | ? | ? | ? |
+| SickRage | ? | ? | ? | ? | ? |
 
