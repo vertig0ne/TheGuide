@@ -23,9 +23,9 @@ Most people that get into managing their own server for serving media don't real
 
 ### TV Shows
 
-| Name | Calendar | RSS Sync | Manual Search | Failed Download Handling | Webhooks | 
+| Name | Thing 1 | Thing 2 | Thing 3 | Thing 4 | Thing 5 |
 | ------- | --------- | --------- | --------- | --------- | --------- |
-| Sonarr | YES | YES | YES | YES | YES |
+| Sonarr | ? | ? | ? | ? | ? |
 | SickRage | ? | ? | ? | ? | ? |
 
 ### Movies
