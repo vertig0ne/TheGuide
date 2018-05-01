@@ -23,8 +23,7 @@ Most people that get into managing their own server for serving media don't real
 
 ### TV Shows
 
-| Name | Thing 1 | Thing 2 | Thing 3 | Thing 4 | Thing 5 |
-| ------- | --------- | --------- | --------- | --------- | --------- |
+| Name | Thing1 | Thing2 | Thing3 | Thing4 | Thing5 |
 | Radarr | ? | ? | ? | ? | ? |
 | CouchPotato | ? | ? | ? | ? | ? |
 
