@@ -28,14 +28,6 @@ Most people that get into managing their own server for serving media don't real
 | Sonarr      | YES        | YES           | YES                  | YES                                    | YES            | YES      | YES          |
 | SickRage | ?             | ?                | ?                       | ?                                         | ?                 | ?           | ?              | 
 
-###### Sonarr
-
-Utilising the .NET Framework for most of it's option, it by no means is limited to the Windows platform. With tools like the mono project, installing Sonarr on a Linux machine is absolutely possible and is generally recommended. Featuring Torznab and Newsnab integration can provide you with a full fledged experience. However does only consume TheTVDb as its repository for information, so if you feature a lot of Anime in your libraries it can be somewhat finicky however it does support absolute ordering which does aliviate this issue a lot but is still not perfect.
-
-###### SickRage
-
-Using SickRage does have it's benefits, as previously mentioned above, SickRage does have support for the AniDb which does provide superior Anime capabilities, however does find itself somewhat lacking in the error reporting department. If things go wrong for whatever reason it's always good to know that there are logs that contain a lot of information for you to fall back on and debug. 
-
 ### Movies
 
 | Name | Thing 1 | Thing 2 | Thing 3 | Thing 4 | Thing 5 |
