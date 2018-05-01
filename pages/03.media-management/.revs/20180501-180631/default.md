@@ -26,33 +26,13 @@ Most people that get into managing their own server for serving media don't real
 | Name | Thing 1 | Thing 2 | Thing 3 | Thing 4 | Thing 5 |
 | ------- | --------- | --------- | --------- | --------- | --------- |
 | Radarr | ? | ? | ? | ? | ? |
-| SickRage | ? | ? | ? | ? | ? |
+| CouchPotato | ? | ? | ? | ? | ? |
 
 ### Movies
 
-| Name | Thing 1 | Thing 2 | Thing 3 | Thing 4 | Thing 5 |
-| ------- | --------- | --------- | --------- | --------- | --------- |
-| Radarr | ? | ? | ? | ? | ? |
-| SickRage | ? | ? | ? | ? | ? |
-
 ### Music
-
-| Name | Thing 1 | Thing 2 | Thing 3 | Thing 4 | Thing 5 |
-| ------- | --------- | --------- | --------- | --------- | --------- |
-| Radarr | ? | ? | ? | ? | ? |
-| SickRage | ? | ? | ? | ? | ? |
 
 ### Books
 
-| Name | Thing 1 | Thing 2 | Thing 3 | Thing 4 | Thing 5 |
-| ------- | --------- | --------- | --------- | --------- | --------- |
-| Radarr | ? | ? | ? | ? | ? |
-| SickRage | ? | ? | ? | ? | ? |
-
 ### Comics
-
-| Name | Thing 1 | Thing 2 | Thing 3 | Thing 4 | Thing 5 |
-| ------- | --------- | --------- | --------- | --------- | --------- |
-| Radarr | ? | ? | ? | ? | ? |
-| SickRage | ? | ? | ? | ? | ? |
 
