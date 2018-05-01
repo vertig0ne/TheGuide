@@ -23,10 +23,10 @@ Most people that get into managing their own server for serving media don't real
 
 ### TV Shows
 
-| Name       | Calendar | RSS Sync | Manual Search | Failed Download Handling | Webhooks | 
-| ----------- | ---------- | ------------ | ----------------- | ------------------------------ | ------------- |
-| Sonarr      | YES        | YES           | YES                  | YES                                    | YES            |
-| SickRage | ?             | ?                | ?                       | ?                                         | ?                 |
+| Name | Calendar | RSS Sync | Manual Search | Failed Download Handling | Webhooks | 
+| ------- | --------- | --------- | --------- | --------- | --------- |
+| Sonarr | YES | YES | YES | YES | YES |
+| SickRage | ? | ? | ? | ? | ? |
 
 ### Movies
 
