@@ -22,6 +22,10 @@ Hollywood.... They know how to produce good movies right? Right. One of the heav
 
 ## Comparison Table
 
+| Name       | Calendar | RSS Sync | Manual Search | Failed Download Handling | Webhooks | Torznab | Newsnab |
+| ----------- | ---------- | ------------ | ----------------- | ------------------------------ | ------------- | --------- | ----------- |
+| Sonarr      | YES        | YES           | YES                  | YES                                    | YES            | YES      | YES          |
+| SickRage | ?             | ?                | ?                       | ?                                         | ?                 | ?           | ?              | 
 
 
 ## Radarr
