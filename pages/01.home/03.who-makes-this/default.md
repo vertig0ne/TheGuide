@@ -15,4 +15,4 @@ restaurant:
     priceRange: $
 ---
 
-Some dumb dudes
+Some dudes that decided that the hard way is too hard.
