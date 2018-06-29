@@ -33,4 +33,10 @@ It is powerful and flexible
 •	Novice friendly
 
 ## Requirements
+UnRAID is very lightwight hardware wise, with the following minimum hardware requirements:
+* A 64-bit capable processor (1.0 GHz or better)
+* 1GB of RAM
+* Linux hardware driver support (for storage, Ethernet, and USB controllers)
+* At least one hard disk drive
 
+The OS loads itself to RAM from a USB Flash drive, wich makes
