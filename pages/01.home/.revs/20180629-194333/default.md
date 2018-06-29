@@ -18,8 +18,6 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
-facebooktitle: LearnToServe
-facebookdesc: 'Looking to start a perfect Media Server? Of course you do! This guide shows you how to set one up from beginning to end.'
 github: true
 ---
 
