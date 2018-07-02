@@ -18,3 +18,22 @@ restaurant:
 ---
 
 ![](homer.png?lightbox=600,400&resize=200,200)
+
+[TOC]
+
+### What is Emby?
+
+### Installation 
+
+##### Local Installation 
+
+
+##### Docker Installation 
+
+
+### Configuration 
+
+
+##### Initial Configuration
+
+
