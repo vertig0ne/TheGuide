@@ -15,11 +15,3 @@ restaurant:
     priceRange: $
 ---
 
-[TOC]
-
-# Spec Sheet
-
-<DUMP OF SPEC SHEET HERE>
-    
-    
-# OTHER STUFF
