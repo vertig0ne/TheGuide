@@ -1,5 +1,6 @@
 ---
-title: 'Technical Information'
+title: ServerBuilds
+visible: true
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false
@@ -15,11 +16,3 @@ restaurant:
     priceRange: $
 ---
 
-[TOC]
-
-# Spec Sheet
-
-<DUMP OF SPEC SHEET HERE>
-    
-    
-# OTHER STUFF
