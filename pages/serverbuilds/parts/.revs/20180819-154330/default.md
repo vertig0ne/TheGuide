@@ -17,28 +17,28 @@ restaurant:
 
 [TOC]
 
-## Motherboard
+# Motherboard
 
 We are using <LINK>This One</LINK>
 
-## CPU
+# CPU
 
 Link off to the CPU Info / Comparison sheet
 
-## CPU Coolers
+# CPU Coolers
 
 We recommend this cooler
 
 Dont link to page, just put it in here.
 
-## RAM
+# RAM
 
 We recommened 8GB, No links, just a paragraph saying put as much as you want in, but at least this.
 
-## Chassis
+# Chassis
 
 We recommend this one, but link off to page which has couple of options
 
-## Other
+# Other
 
 Dump all other random parts in here
