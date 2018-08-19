@@ -31,7 +31,7 @@ Build an affordable & upgradable dual-socket 2011 system...
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Odio facilisis mauris sit amet. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Maecenas sed enim ut sem viverra aliquet eget. At imperdiet dui accumsan sit amet nulla facilisi morbi. Sit amet nulla facilisi morbi.
 
 
-### Build properties
+### Build properties:
 
  - Highly upgradable, with a clear path for upgrades
  - Bargain basement prices on all components
