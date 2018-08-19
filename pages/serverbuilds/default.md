@@ -1,5 +1,6 @@
 ---
 title: ServerBuilds
+visible: true
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false
