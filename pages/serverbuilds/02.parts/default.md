@@ -1,5 +1,6 @@
 ---
 title: Parts
+visible: true
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false
